@@ -17,3 +17,7 @@ Desigur, ne poți ajuta. Prima noastră prioritate este achiziționarea unui dom
 
 ### Ajutor
 Scrie-ne la leaklandboard@gmail.com sau la salut@leakland.gq.
+
+
+
+Îți mulțumim!
