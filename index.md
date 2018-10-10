@@ -15,3 +15,6 @@ Dacă vrei să verifici că această pagină este reală te rugăm să accesezi 
 Desigur, ne poți ajuta. Prima noastră prioritate este achiziționarea unui domeniu, de preferat .ro, asupra căruia să avem control complet, după care o găzduire plătită. Avantajele unui astfel de host sunt foarte mari, și ne vor permite să rămânem online pe o perioadă nelimitată de timp. Poți susține financiar comunitatea noastră achiziționând gradul Premium pe forumul nostru, care costa 3 euro, este permanent și are beneficii pe forum. De asemenea, poți face o donație oricât de mare aici. [Cumpără Premium](http://leakland.gq/) //  [Donează orice sumă](http://leakland.gq/)
 
 ![alt text](https://i.imgur.com/sc9Def6.png "Logo Title Text 1")
+
+### Contact
+Scrie-ne la leaklandboard@gmail.com.
