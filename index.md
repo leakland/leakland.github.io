@@ -16,8 +16,8 @@ Dacă vrei să verifici că această pagină este reală te rugăm să accesezi 
 Desigur, ne poți ajuta. Prima noastră prioritate este achiziționarea unui domeniu, de preferat .ro, asupra căruia să avem control complet, după care o găzduire plătită. Avantajele unui astfel de host sunt foarte mari, și ne vor permite să rămânem online pe o perioadă nelimitată de timp. Poți susține financiar comunitatea noastră achiziționând gradul Premium pe forumul nostru, care costa 3 euro, este permanent și are beneficii pe forum. De asemenea, poți face o donație oricât de mare aici. [Cumpără Premium](http://leakland.gq/) //  [Donează orice sumă](http://leakland.gq/)
 
 ### Ajutor
-Scrie-ne la leaklandboard@gmail.com sau la salut@leakland.gq.
+Scrie-ne la leaklandboard@gmail.com (de preferat atât dacă [http://leakland.gq](http://leakland.gq) este offline cât și dacă este online) sau la salut@leakland.gq (doar dacă [http://leakland.gq](http://leakland.gq) este online și funcționează 100%).
 
 ### English
 
-![alt text](https://i.imgur.com/upTzsL4.png")  This website is the SafeZone for the LeakLand community. If you were redirected here from any readme please make sure you download it again from https://leakland.github.io/something-here or [http://leakland.gq/](http://leakland.gq/). The official websites of LeakLand are  [http://leakland.gq](http://leakland.gq) and [https://leakland.github.io/](https://leakland.github.io/). 
+![alt text](https://i.imgur.com/upTzsL4.png")  This website is the SafeZone for the LeakLand community. If you were redirected here from any readme please make sure you download it again from https://leakland.github.io/something-here or [http://leakland.gq/](http://leakland.gq/). The official websites of LeakLand are [http://leakland.gq](http://leakland.gq) and [https://leakland.github.io/](https://leakland.github.io/). If [http://leakland.gq](http://leakland.gq) is offline, come to this page and write us an e-mail at leaklandboard@gmail.com.
