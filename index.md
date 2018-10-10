@@ -19,5 +19,4 @@ Desigur, ne poți ajuta. Prima noastră prioritate este achiziționarea unui dom
 Scrie-ne la leaklandboard@gmail.com sau la salut@leakland.gq.
 
 
-
-Îți mulțumim!
+![alt text](https://i.imgur.com/upTzsL4.png")
