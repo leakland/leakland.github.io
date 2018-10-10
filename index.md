@@ -18,5 +18,6 @@ Desigur, ne poți ajuta. Prima noastră prioritate este achiziționarea unui dom
 ### Ajutor
 Scrie-ne la leaklandboard@gmail.com sau la salut@leakland.gq.
 
+### English
 
 ![alt text](https://i.imgur.com/upTzsL4.png") This page is the SafeZone for the LeakLand community. If you were redirected here from any readme please make sure you download it again from https://leakland.github.io/something-here or [http://leakland.gq/](http://leakland.gq/).
