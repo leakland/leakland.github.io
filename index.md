@@ -10,4 +10,4 @@ Dacă vrei să verifici că această pagină este reală te rugăm să accesezi 
 
 ### De ce este necesar un SafeZone?
 
-În acest moment proiectul LeakLand este găzduit gratuit pe un domeniu gratuit, oferit de Freenom. Deși oferă domenii gratuit și complet funcționale, Freenom șterge fără avertisment și fără motiv domenii. 
+În acest moment proiectul LeakLand este găzduit gratuit pe un domeniu gratuit, oferit de Freenom. Deși oferă domenii gratuit și complet funcționale, Freenom șterge fără avertisment și redirecționează fără motiv domenii, atunci când acestea au un trafic destul de mare. Astfel, dacă vom pierde controlul asupra domeniului leakland.gq, acesta este locul în care te vom anunța despre noul nostru domeniu.
