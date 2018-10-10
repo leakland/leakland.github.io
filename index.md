@@ -1,6 +1,6 @@
 ## Salut!
 
-Indiferent de unde se află LeakLand
+Indiferent de unde se află LeakLand, aceasta este singura pagină oficială și sigură. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
