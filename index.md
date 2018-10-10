@@ -6,7 +6,7 @@ Adresa de e-mail pentru safezone este leaklandboard@gmail.com. Singurele adrese 
 
 ### Verifică această pagină
 
-Dacă vrei să verifici că această pagină este reală te rugăm să accesezi [http://leakland.gq/safezone](http://leakland.gq/safezone). Nu trebuie să ai încredere decât în acest safezone și, în acest moment, în website-ul nostru principal, [http://leakland.gq](http://leakland.gq). De asemenea, ne poți trimite un e-mail la safezone@leakland.gq sau salut@leakland.gq în care să întrebi acest lucru.
+Dacă vrei să verifici că această pagină este reală te rugăm să accesezi [http://leakland.gq/safezone](http://leakland.gq/safezone). Nu trebuie să ai încredere decât în acest safezone și, în acest moment, în website-ul nostru principal, [http://leakland.gq](http://leakland.gq). De asemenea, ne poți trimite un e-mail la safezone@leakland.gq sau salut@leakland.gq în care să întrebi acest lucru. În cazul în care tot nu ești sigur, trimite-i un PM (mesaj privat) oricărui administrator de pe forumul nostru.
 
 ```markdown
 Syntax highlighted code block
