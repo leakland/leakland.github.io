@@ -1,4 +1,4 @@
-## LeakLand - SafeZone ![alt text](https://i.imgur.com/sc9Def6.png "Aceasta este o pagină oficială.")
+## LeakLand - SafeZone ![alt text](https://i.imgur.com/sc9Def6.png "Aceasta este o pagină oficială")
 
 
 Indiferent de unde se află LeakLand, aceasta este singura pagină oficială și sigură, care va rămâne pe internet pentru totdeauna. În acest moment, singurele website-uri oficiale ale LeakLand sunt [http://leakland.gq](http://leakland.gq) și [https://leakland.github.io/](https://leakland.github.io/). 
