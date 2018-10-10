@@ -4,10 +4,9 @@ Indiferent de unde se află LeakLand, aceasta este singura pagină oficială și
 
 Adresa de e-mail pentru safezone este leaklandboard@gmail.com. Singurele adrese de e-mail oficiale ale noastre sunt leaklandboard@gmail.com, salut@leakland.gq și andrei@leakland.gq.
 
-### Markdown
+### Verifică această pagină
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Dacă vrei să verifici că această pagină este reală te rugăm să accesezi [http://leakland.gq/safezone](http://leakland.gq/safezone).
 ```markdown
 Syntax highlighted code block
 
