@@ -15,7 +15,7 @@ Dacă vrei să verifici că această pagină este reală te rugăm să accesezi 
 
 Desigur, ne poți ajuta. Prima noastră prioritate este achiziționarea unui domeniu, de preferat .ro, asupra căruia să avem control complet, după care o găzduire plătită. Avantajele unui astfel de host sunt foarte mari, și ne vor permite să rămânem online pe o perioadă nelimitată de timp. Poți susține financiar comunitatea noastră achiziționând gradul Premium pe forumul nostru, care costa 3 euro, este permanent și are beneficii pe forum. De asemenea, poți face o donație oricât de mare aici. [Cumpără Premium](http://leakland.gq/) //  [Donează orice sumă](http://leakland.gq/)
 
-În SafeZone poți vedea website-urile oficiale ale LeakLand (pe această pagină) și poți descărca în siguranță orice resursă (de la https://leakland.github.io/numeresursă). Lista completă a paginilor din acest SafeZone (numită și SafeIndex) se află [aici](http://leakland.github.io/index).
+În SafeZone poți vedea website-urile oficiale ale LeakLand (pe această pagină) și poți descărca în siguranță orice resursă (de la https://leakland.github.io/numeresursă). Lista completă a paginilor din acest SafeZone (numită și SafeIndex) se află [aici](http://leakland.github.io/safeindex).
 
 ### Ajutor
 Scrie-ne la leaklandboard@gmail.com (de preferat atât dacă [http://leakland.gq/safezone](http://leakland.gq/safezone) este offline cât și dacă este online) sau la salut@leakland.gq (doar dacă [http://leakland.gq](http://leakland.gq/safezone) este online și funcționează 100%).
