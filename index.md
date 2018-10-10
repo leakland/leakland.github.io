@@ -1,6 +1,6 @@
 ## LeakLand - Safezone
 
-Indiferent de unde se află LeakLand, aceasta este singura pagină oficială și sigură, care va rămâne pe internet pentru totdeauna. În acest moment, singurele website-uri oficiale ale LeakLand sunt http://leakland.gq și https://leakland.github.io/. 
+Indiferent de unde se află LeakLand, aceasta este singura pagină oficială și sigură, care va rămâne pe internet pentru totdeauna. În acest moment, singurele website-uri oficiale ale LeakLand sunt [http://leakland.gq](http://leakland.gq) și [https://leakland.github.io/](https://leakland.github.io/). 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
